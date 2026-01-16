@@ -1,1 +1,5 @@
-{"attributes":"Ruben","location":"Spain","age":43}
+{
+  "attributes" : "Ruben",
+  "location" : "Spain",
+  "age" : 43
+}
